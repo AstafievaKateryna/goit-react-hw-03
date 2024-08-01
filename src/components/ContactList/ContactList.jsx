@@ -1,5 +1,5 @@
 import Contact from "./Contact/Contact";
-// import s from "./ContactList.module.css";
+import s from "./ContactList.module.css";
 
 const ContactList = ({ contact, handleDelete }) => {
   return (
